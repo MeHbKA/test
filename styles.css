@@ -1,0 +1,19 @@
+html {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: relative;
+    top: 5px;
+  }
+  
+  .btn-list{
+    margin-top: 10px;
+  }
